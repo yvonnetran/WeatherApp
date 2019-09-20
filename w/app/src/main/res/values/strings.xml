@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">QuickWeather</string>
+    <string name="action_settings">Add a city</string>
+    <string name="cities_db">cities.db</string>
+    <string name="city_name">city name</string>
+    <string name="btnDelete">DELETE</string>
+
+    <!-- ROW -->
+    <string name="city_name_string">City</string>
+    <string name="city_country_string">country</string>
+    <string name="temperature_string">Temperature</string>
+    <string name="degrees_string">°C</string>
+    <string name="description_string">description</string>
+    <string name="wind_string">Wind: </string>
+    <string name="speed_string"> m/s</string>
+    <string name="humidity_string">Humidity: </string>
+    <string name="percent_string">%</string>
+
+    <!-- DEATILSACTIVITY -->
+    <string name="weather_unit">metric</string>
+    <string name="api_key">95636c317c84d38c4b2508162c393efa</string>
+    <string name="error_cannot_connect">Error: Cannot connect</string>
+    <string name="title_activity_details">DetailsActivity</string>
+    <string name="file_type">.png</string>
+    <string name="city_not_found_error">City not found</string>
+    <string name="na_error"> </string>
+    <string name="error_hint">Check if the city was spelled correctly</string>
+    <string name="city_name_hint">City name</string>
+
+    <!-- ADAPTER -->
+    <string name="adapter_city_name">CITY_NAME</string>
+    <string name="fab_new_city_text">New City</string>
+
+
+</resources>
